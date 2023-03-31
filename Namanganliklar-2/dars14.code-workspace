@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../dars13/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dars14",
+		"liveServer.settings.port": 5501
+	}
+}
